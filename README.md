@@ -41,4 +41,4 @@
 
 <a href="https://github.com/Sakura-OFC/The-MieBot-MDV2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sakura-OFC&repo=The-MieBot-MDV2&theme=merko)</a>
 
-<a href="https://github.com/David-OFC/The-MikuBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=David-OFC&repo=The-MikuBot-MD&theme=merko)</a>
+<a href="https://github.com/DavidOficial/The-MikuBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DavidOfcial&repo=The-MikuBot-MD&theme=merko)</a>
