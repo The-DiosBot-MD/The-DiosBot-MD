@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA57F6&height=120&section=header"/>
-
 ## ¡Hola y Bienvenido te presento mí Perfil aqui encontraras toda la información referente a mi trabajo
 
 ### ***The-DiosBot-MD By AdrianOficial***
@@ -22,8 +20,8 @@
 </div>
 <div align="center">
 <a href="https://github.com/The-DiosBot-MD/">
-<img src="https://github-readme-stats.vercel.app/api?username=The-DiosBot-MD-Li&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-DiosBot-MD-Li&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="The-DiosBot-MD"/>
+<img src="https://github-readme-stats.vercel.app/api?username=The-DiosBot-MD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-DiosBot-MD&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="The-DiosBot-MD"/>
 <br><br>
 </a>
 
@@ -44,6 +42,3 @@
 <a href="https://github.com/Sakura-OFC/The-MieBot-MDV2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sakura-OFC&repo=The-MieBot-MDV2&theme=merko)</a>
 
 <a href="https://github.com/David-OFC/The-MikuBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=David-OFC&repo=The-MikuBot-MD&theme=merko)</a>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
