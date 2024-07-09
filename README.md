@@ -43,6 +43,7 @@
 
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=merko)</a>
 
+<a href="https://github.com/GataNina-Li/YartexBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=YartexBot-MD&theme=merko)</a>
 
 <a href="https://github.com/Sakura-OFC/The-MieBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sakura-OFC&repo=The-MieBot-MD&theme=merko)</a>
 
