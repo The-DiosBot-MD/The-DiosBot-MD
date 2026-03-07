@@ -1,6 +1,6 @@
 ## ¡Hola y Bienvenido te presento mí Perfil aqui encontraras toda la información referente a mi trabajo
 
-### ***The-DiosBot-MD By AdrianOficial***
+### ***The-DiosBot-MD By Tecnologis***
 
 ### Si puedes seguir mis redes sociales para que estes al tanto de lo que este haciendo
 > Si desea contactarme lo puede hacer sólo por Instagram
